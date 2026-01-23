@@ -3,8 +3,6 @@
 🎓 Étudiant en **2ᵉ année de cycle préparatoire ingénieur**  
 💻 Intéressé par le **développement web & logiciel** et l’**IA**
 
----
-
 ## 🚀 Profil technique
 
 | 🧠 Domaine | 💡 Contenu |
@@ -14,8 +12,6 @@
 | Data | SQL |
 | IA | Machine Learning (Python) |
 | Outils | Git · GitHub |
-
----
 
 ## 📊 Langages les plus utilisés
 
