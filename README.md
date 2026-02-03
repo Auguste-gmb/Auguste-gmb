@@ -19,6 +19,6 @@
 
 ## 📫 Contact
 
-<a href="https://www.linkedin.com/in/auguste-gambu-a299a533b/">
+<a href="https://www.linkedin.com/in/auguste-gambu-a299a533b/" target="_blank">
   <img src="https://github.com/user-attachments/assets/f22d8620-166e-47b6-9a18-4fbb9779b7c2" alt="LinkedIn" width="30" height="30">
 </a>
